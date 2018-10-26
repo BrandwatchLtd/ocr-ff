@@ -34,3 +34,11 @@ The first statement should point to the training data folder you downloaded. The
 
 # Example outputs
 
+[I've created a document with some results from some fairly arbitrary memes.](https://docs.google.com/document/d/1j5A-7HTP7wp3uNhLl8486Gd854XpzhXdBq1nOpaGlfY/edit)
+
+Some observations:
+
+* Regular screenshots of normal fonts work well (e.g. Twitter and Facebook screenshot)
+* Image quality matters. The same font in poorer quality images worked worse.
+* Some fonts don't work at all (e.g. the Simpsons/comic crossover)
+* Tag a friend who has a knee
